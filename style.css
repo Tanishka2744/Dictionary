@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+    background-color: #f0f0f0;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(226, 115, 245);
+    color: #fff;
+    font-size: 28px;
+    height: 90px;
+}
+
+.container {
+    width: 100%;
+    max-width: 500px;
+    padding: 22px;
+    background-color: #fff;
+    box-shadow: 1px 3px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 6px;
+    margin: 60px auto 0 auto;
+}
+
+.searchBar {
+    display: flex;
+    gap: 8px;
+}
+
+.container input {
+    flex: 1;
+    padding: 15px;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    background-color: #f7f0f0;
+}
+
+.searchBar button {
+    width: 100px;
+    background-color: rgb(213, 58, 208);
+    color: #fff;
+    font-size: 16px;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.searchBar button:hover {
+    background-color: rgb(180, 40, 180);
+}
+
+.text {
+    padding: 22px;
+    margin-top: 22px;
+}
+
+.text p {
+    margin-top: 12px;
+    line-height: 1.5;
+}
+
+.text a {
+    display: inline-block;
+    margin-top: 12px;
+    padding: 6px 20px;
+    background-color: rgb(213, 58, 208);
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 4px;
+}
+
+.text span {
+    color: rgb(92, 91, 91);
+}
+
+/* Responsive */
+@media screen and (max-width: 600px) {
+    .container {
+        width: 90%;
+    }
+}
