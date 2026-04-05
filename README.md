@@ -1,82 +1,62 @@
-# 📘 Dictionary Web Application
+# 🌟 Dictionary App
 
-An interactive and user-friendly **Dictionary Web App** built using **HTML, CSS, and JavaScript**.  
-This application allows users to search for English words and instantly get their **meaning, example, part of speech, and synonyms** using a public dictionary API.
+Hi! I’m **Tanishka Khandelwal** 👩‍💻, a **Frontend Developer**.  
 
-The main goal of this project was to practice **API integration**, improve **UI design**, and handle **real-time user input** in a clean and simple way.
+**Dictionary App** is a web application built using **HTML, CSS, and JavaScript**, designed to provide **word definitions, pronunciation, and examples** in an interactive and clean interface.
 
----
-
-## ✨ Features
-
-- Search words with a clean and minimal UI  
-- Displays:
-  - Word  
-  - Part of Speech  
-  - Meaning  
-  - Example sentence  
-  - Synonyms  
-- “Read More” link for detailed information  
-- Error handling for invalid or empty inputs  
-- Fully responsive design  
+💡 This project focuses on **dynamic content rendering, API integration (if used), and responsive UI**, perfect for learning and exploring vocabulary efficiently.
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Live Demo
 
-- **HTML** – Structure of the application  
-- **CSS** – Styling and responsive layout  
-- **JavaScript** – Logic, API calls, and dynamic content  
-- **Dictionary API** – Fetching word data  
+[📖 View Dictionary App Live](https://dictionary-zeta-three.vercel.app/)
 
 ---
 
-## ⚙️ How I Built This Project
+## 🌈 Tech Skills
 
-1. Created a simple layout using HTML with a search bar and result section  
-2. Styled the UI using CSS to keep it clean, readable, and responsive  
-3. Used JavaScript `fetch()` to connect with the Dictionary API  
-4. Displayed fetched data dynamically in the DOM  
-5. Added error handling for:
-   - Empty input  
-   - Invalid words  
-6. Enhanced UX by allowing users to search using the **Enter key**  
+**Frontend:**  
+🌐 HTML5 | 🎨 CSS3 | 💻 JavaScript (ES6+)  
+
+**Tools & Workflow:**  
+🐙 Git & GitHub | 🖥️ VSCode  
 
 ---
 
-## 📚 What I Learned
+## 💻 About Dictionary App
 
-- Working with **REST APIs** and handling JSON data  
-- Using **async/await** for cleaner asynchronous code  
-- DOM manipulation for dynamic content updates  
-- Handling edge cases and user errors  
-- Improving UI/UX for real-world applications  
+- Built using **HTML, CSS, and JavaScript**  
+- Displays **word meanings, synonyms, and pronunciation**  
+- Focused on **clean, responsive, and interactive layout**  
+- Highlights **real-world frontend logic and UI patterns**  
 
----
+### 🌟 Key Features
 
-## 🚀 Future Improvements
-
-- Add pronunciation audio support  
-- Show multiple meanings and examples  
-- Add dark mode  
-- Improve UI animations  
-- Support multiple languages  
+- **Search Functionality:** Lookup words instantly  
+- **Interactive Display:** Shows definitions, examples, and pronunciation  
+- **Responsive Design:** Works on desktop, tablet, and mobile  
+- **Clean Layout:** Easy-to-read interface for quick learning  
+- **Dynamic UI:** Updates display as users search for different words  
 
 ---
 
-## ▶️ Running the Project
+## 🌱 Learning & Growth
 
-1. Clone or download the repository  
-2. Open `index.html` in your browser  
-3. Enter a word and click **Search** or press **Enter**  
+- 💻 Strengthening **JavaScript fundamentals & DOM manipulation**  
+- 🎨 Improving **UI/UX for interactive apps**  
+- 🌐 Practicing **responsive design and dynamic content rendering**  
+
+---
+
+## 📬 Connect With Me
+
+[🌐 Portfolio](https://portfolio-blue-three-21.vercel.app/)  
+[💼 LinkedIn](https://www.linkedin.com/in/tanishkakhandelwal122704)  
+[🐙 GitHub](https://github.com/Tanishka2712004)  
+[🐦 Twitter](https://twitter.com/@TanishkaK27124)  
+[📧 Email](mailto:tanishkakhandelwal00@gmail.com)
 
 ---
 
-## 🎬 Preview
-
-A short **GIF demo** of the project is included below to showcase the functionality:
-
-![Dictionary](https://github.com/user-attachments/assets/9f9d882e-9a1f-4aa7-bc3d-cae3e054e9d1)
-
-
----
+Made with ❤️ using **HTML, CSS & JavaScript**
